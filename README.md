@@ -5,6 +5,7 @@ Passing message from Apache Kafka to Aphyr's Riemann
 ## Usage
 
 lein uberjar
+
 java -jar target/kafka-to-riemann-0.1.0-SNAPSHOT-standalone.jar ~/your/path/to/config.yml
 
 ## Configuration example
